@@ -1,0 +1,270 @@
+{ margin: 0;
+    border: border-box;
+ }
+ .bar{
+    background-color:wheat;
+    height:200px;
+    color:black;
+    display:flex;
+    justify-content: space-evenly;
+ }
+ .well{
+    height: 150px;
+    background-color: mediumvioletred;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size:4rem;
+ }
+ .Cosmatic{
+    display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size:3rem;
+ }
+ .navsearch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:3rem;
+ }
+  .border{
+     border:1.5px solid transparent;
+     bor
+  }
+  .border:hover{
+     border: 1.5px solid white;
+  }
+  .navsearch{
+     display: flex;
+     height:50px;
+     margin-top:50px;
+     margin-bottom:20px;
+     margin-left:300px;
+  }
+  .section{
+    background-image:url("bac.jpg");
+    height:1500px;
+    width:120%;
+    background-size: cover;
+  }
+  .mesg{
+    background-color:black;
+    color:whitesmoke;
+    height:200px;
+    font-size:3rem;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
+  }
+  .search{
+    height: 100px;
+    background-color:white;
+    color: deeppink;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .s{
+    height:60px;
+    width: 80%;
+    font-size: 3rem;
+    margin-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+ .box{
+    height:200px;
+    width:22%;
+    margin-bottom:2px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+ }
+ .c{
+    height:30px;
+    margin-top: 5px;
+    color: deeppink;
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ .C{
+    height:20px;
+    color: deeppink;
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ .box2{
+    height:110px;
+    width:15%;
+    margin-bottom:2px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+
+ }
+ .box3{
+    height:150px;
+    width:115%;
+ }
+ .shop-section{
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-evenly;
+    background-color:azure;
+    height:700px;
+ }
+  
+  .image{
+    height:280px;
+    background-image: cover;
+  }
+  .cimage{
+   height:235px;
+   background-image: cover;
+ }
+  .footer{
+    height:500px;
+    background-color:lightgreen;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size:4rem;
+    
+  }
+   .shop-section2{
+    height:650px;
+    background-color:azure;
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-evenly;
+    margin-top:350px;
+    width: 100%;
+  }
+  .shop-section6{
+   height:650px;
+   background-color:azure;
+   display: flex;
+   flex-wrap:wrap ;
+   justify-content: space-evenly;
+   margin-top:1px;
+   width: 100%;
+ }
+  .shop-section5{
+   height:650px;
+   background-color:azure;
+   display: flex;
+   flex-wrap:wrap ;
+   justify-content: space-evenly;
+   margin-top:1px;
+   width: 100%;
+ }
+  .shop-section3{
+   height:1500x;
+   background-color:azure;
+   margin-top:90px;
+   display: flex;
+   flex-wrap:wrap ;
+   justify-content: space-evenly;
+   width: 100%;
+ }
+  .d{
+    height: 150px;
+    background-color:rgb(213, 15, 163);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size:4rem;
+  }
+  .logo{
+    height: 90px;
+    width: 220px;
+    margin-right: 250px;
+  }
+  .h{
+    height:75px;
+    width: 90px;
+ 
+  }
+ .more{
+ height:700px;
+ background-color:pink;
+ display: flex;
+ flex-wrap:wrap ;
+ justify-content: space-evenly;
+ 
+ }
+  .abox{
+    height:200px;
+    width:19%;
+    margin-bottom:2px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+ }
+ .aimage{
+    height:350px;
+    background-image: cover;
+  }
+  .e{
+    background-color:turquoise;
+    color:whitesmoke;
+    height:200px;
+    font-size:3rem;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    
+    
+  }
+  .amore{
+       height:300px;
+       background-color:#e2e7e6;
+       display: flex;
+       flex-wrap:wrap ;
+       justify-content: space-evenly;
+     }
+     .box4{
+   
+       width:19%;
+    }
+    .bimage{
+       height:190px;
+       background-image: cover;
+     }
+     
+     .shop-section7{
+      height:600px;
+      background-color:azure;
+      margin-top:150px;
+      display: flex;
+      flex-wrap:wrap ;
+      justify-content: space-evenly;
+      width: 100%;
+    }
+    .box5{
+      height:400px;
+      width:32%;
+      margin-bottom:2px;
+      margin-left: 5px;
+      margin-right: 5px;
+   }
+   .shop-section6{
+    height:600px;
+    background-color:azure;
+    margin-top:150px;
+    display: flex;
+    flex-wrap:wrap ;
+    justify-content: space-evenly;
+    width: 100%;
+  }
+  
+   
